@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Job Candidate
+title: Papungkorn Kitcharoenkarnkul
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: PhD Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Big Ten University
-  url: ""
+- name: University of Utah
+  url: "https://economics.utah.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics. 
+bio: Papungkorn Kitcharoenkarnkul is a doctoral candidate in economics at the University of Utah. My research interest lies educational, health, and labor economics.
 
 interests:
+- Applied Microeconometrics
+- Economics of Education
 - Health economics
-- Environmental economics
+- Labor Economics
  
 
 education:
   courses:
   - course: PhD in Economics
-    institution: Big Ten University
-    year: 2021 (Expected)
+    institution: University of Utah
+    year: 2024(E)
   - course: MS in Economics
-    institution:  Big Ten University
-    year: 2017  
+    institution:  University of Utah
+    year: 2022  
   - course: BA in Economics
-    institution: Liberal Arts College
-    year: 2016
+    institution: Chulalongkorn University
+    year: 2014
 
 
 # Social/Academic Networking
@@ -45,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
+  link: 'p.kitcharoen@utah.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/twitter_handle
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/GITHUB-USERNAME
+  link: https://github.com/papungkorn-k
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2020-2021 job market. 
+I am an applied microeconometrician with broad research interests in education, labor, and politics. I employ experimental and quasi-experimental methods to identify causal relationships that can inform policy. Through my work, I examine issues of racial inequality and discrimination in school discipline, job search, and voting.
