@@ -16,13 +16,13 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "default"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Big Ten University"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Papungkorn Kitcharoenkarnkul is a PhD Candidate in Economics at University of Utah"
+description = ""
 
 ############################
 ## Site Features
@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -112,7 +112,8 @@ address = {street = "260 Central Campus Drive", city = "Salt Lake City", region 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "", name = "", link = ""},
+  {icon = "envelope", icon_pack = "fa", name = "p.kitcharoen@utah.edu", link = "mailto:p.kitcharoen@utah.edu"},
+  # {icon = "twitter", icon_pack = "", name = "", link = ""},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +128,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "twitter_handle"
+#twitter = "twitter_handle"
 
 ############################
 ## Regional Settings
@@ -294,5 +295,6 @@ plugins_js  = []
 ############################
 ## Icon Pack Extensions
 ############################
+# Unable the CV icon under picture (not sure if it affects others)
 [icon.pack]
-  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
