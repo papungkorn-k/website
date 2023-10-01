@@ -8,15 +8,20 @@ date = 2020-08-09
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "Average instructor rating: 4.8/5"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 120
 
 +++
 
-### Econ 235: Health Economics
-In-person: Fall 2019
+### ECON4650: Principle of Econometrics
+*Instructor:* Spring 2023, Spring 2022, Summer 2022  
+*Teaching Assistant:* Fall 2020
 
-### MTH 101: Basic Statistics
-TA: Fall 2018, 2017, 2016
+### ECON3640: Probability \& Statistical Inference
+*Instructor:* Summer 2023, Fall 2022    
+*Teaching Assistant:* Spring 2021
+
+### ECON2010: Principle of Microeconmics
+*Teaching Assistant:* Spring 2020, Fall 2019

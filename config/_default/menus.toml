@@ -1,5 +1,5 @@
 # Navigation Links
-#   To link a homepage "widget" (within the same page), specify the URL as a hash `#` followed by the filename of the desired widget in your `content/home/` folder.
+#   To link a homepage "widget" (within the same page), specify the URL as a hash `#` followed by the filename of the desired widget in your `/content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 #   To link a homepage "link" (different page), specify the URL as a /'folder'/
 
