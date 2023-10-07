@@ -20,7 +20,7 @@
 
 [[main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "files/Kitcharoenkarnkul_cv.pdf"
   weight = 30
 
 # [[main]]
@@ -35,6 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# Make sure that the file linked to the name of your CV
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"

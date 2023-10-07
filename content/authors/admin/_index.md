@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.utah.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Papungkorn Kitcharoenkarnkul is a doctoral candidate in economics at the University of Utah. My research interest lies educational, health, and labor economics.
+bio: Papungkorn Kitcharoenkarnkul is a doctoral candidate in economics at the University of Utah.
 
 interests:
 - Applied Microeconometrics
@@ -84,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-I am an applied microeconometrician with broad research interests in education, labor, and politics. I employ experimental and quasi-experimental methods to identify causal relationships that can inform policy. Through my work, I examine issues of racial inequality and discrimination in school discipline, job search, and voting.
+I am a quantitative researcher with extensive experience in both academia and industry. My expertise lies in applying statistical and econometric methodologies to conduct comprehensive analyses in applied research. My experience spans several research areas, including education, health, labor, and behavioral economics.
