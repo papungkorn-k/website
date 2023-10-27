@@ -1,1 +1,3 @@
 # website
+- This reposity is for my [academic website](https://papungkorn.rbind.io). Most of the documents in this repositary are **NOT** clean. If you plan on using the materials from this folder, please do it with care.
+- During the development process, I found really useful resources on [Kyle Raze website](https://kyleraze.com). I got a lot of ideas on how to build an academic website from his resoures. I would like to recognize him for contributing these useful materials on his Github.
