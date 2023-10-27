@@ -26,7 +26,7 @@ projects: []
 
 **ECON3640: Probability & Statistical Inference**
 
-> **Instructor:** Summer 2023, Fall 2022
+> **Instructor:** Summer 2023, Fall 2022  
 > **Teaching Assistant:** Spring 2021
 
 **ECON2010: Principle of Microeconomics**
